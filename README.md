@@ -1,7 +1,7 @@
 # Semester-2
-# 1. Object-Oriented Programming 💖
-# 2. Data structures and Algorithms 🍏
-# 3. Operating Systems 💎
-# 4. Geometry 📐
-# 5. Dynamical Systems 🌱
-# 6. Graph Algorithms 💤
+### 1. Object-Oriented Programming 💖
+### 2. Data structures and Algorithms 🍏
+### 3. Operating Systems 💎
+### 4. Geometry 📐
+### 5. Dynamical Systems 🌱
+### 6. Graph Algorithms 💤
